@@ -1,6 +1,6 @@
 PIC-SEEK-AI
 
-![Alt Text](https://raw.githubusercontent.com/mehediNabil24/https://github.com/mehediNabil24/pic-seek-image-generator/main/assets/profile.png)
+![Alt Text](https://raw.githubusercontent.com/mehediNabil24/https://github.com/mehediNabil24/pic-seek-image-generator/blob/main/public/profile.png)
 
 
 🚀 Live Demo: PIC-SEEK-AI
