@@ -13,7 +13,7 @@ PIC-SEEK-AI Preview
 
 Pick-Seek is an advanced AI-powered tool that can generate images, analyze images, and provide contextual replies and comments based on specific image content. It leverages cutting-edge AI models to process visual data efficiently and interact seamlessly with users.
 
-This tool leverages state-of-the-art AI models to process visual data efficiently and interact seamlessly with users.
+
 ✨ Features
 
 ✅ Image Generation – Create high-quality images from text prompts
