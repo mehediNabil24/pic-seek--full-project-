@@ -1,7 +1,6 @@
 PIC-SEEK-AI
 
-![Alt Text](https://raw.githubusercontent.com/mehediNabil24/https://github.com/mehediNabil24/pic-seek-image-generator/blob/main/public/profile.png)
-
+PIC-SEEK-AI Preview
 
 🚀 Live Demo: https://crack-ai-e14a4.web.app/
 
@@ -12,15 +11,15 @@ PIC-SEEK-AI
 
 🔍 About PIC-SEEK-AI
 
-PIC-SEEK-AI is an advanced AI-powered tool that enables:
 Pick-Seek is an advanced AI-powered tool that can generate images, analyze images, and provide contextual replies and comments based on specific image content. It leverages cutting-edge AI models to process visual data efficiently and interact seamlessly with users.
-Features: 
-Image Generation: Create high-quality images based on textual prompts.
-Image Analysis: Detect objects, scenes, and key elements within an image.
-Contextual Replies: Provide meaningful responses based on an image's context.
-Commenting System: Offer AI-driven comments and insights on images.
 
 This tool leverages state-of-the-art AI models to process visual data efficiently and interact seamlessly with users.
+✨ Features
+
+✅ Image Generation – Create high-quality images from text prompts
+✅ Image Analysis – Detect objects, scenes, and essential image elements
+✅ Contextual Replies – Get AI-generated responses based on an image's context
+✅ Commenting System – AI-powered insights and discussions on images
 ⚡ Getting Started
 1️⃣ Clone the Project
 
@@ -39,9 +38,9 @@ npm install
     Enable Google Authentication
     Copy your Firebase Configuration Credentials
 
-4️⃣ Create .env File & Add Firebase Credentials
+4️⃣ Create a .env File & Add Firebase Credentials
 
-Create a .env file in the root directory and add the following:
+Create a .env file in the root directory and add:
 
 VITE_apiKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 VITE_authDomain=xxxxxxxxxxxxxxxxxxxxxxxxxxx
