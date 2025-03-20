@@ -3,12 +3,12 @@ PIC-SEEK-AI
 ![Alt Text](https://raw.githubusercontent.com/mehediNabil24/https://github.com/mehediNabil24/pic-seek-image-generator/blob/main/public/profile.png)
 
 
-🚀 Live Demo: PIC-SEEK-AI
+🚀 Live Demo: https://crack-ai-e14a4.web.app/
 
 📂 Repositories:
 
-    Client-Side: GitHub Repo
-    Server-Side: GitHub Repo
+    Client-Side: https://github.com/mehediNabil24/pic-seek-image-generator
+    Server-Side: https://github.com/mehediNabil24/pic-seek-server
 
 🔍 About PIC-SEEK-AI
 
