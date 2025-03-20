@@ -13,10 +13,12 @@ PIC-SEEK-AI
 🔍 About PIC-SEEK-AI
 
 PIC-SEEK-AI is an advanced AI-powered tool that enables:
-✅ Image Generation – Create high-quality images from textual prompts.
-✅ Image Analysis – Detect objects, scenes, and key elements within an image.
-✅ Contextual Replies – Generate AI-driven responses based on image content.
-✅ Commenting System – Provide AI-generated insights and feedback on images.
+Pick-Seek is an advanced AI-powered tool that can generate images, analyze images, and provide contextual replies and comments based on specific image content. It leverages cutting-edge AI models to process visual data efficiently and interact seamlessly with users.
+Features: 
+Image Generation: Create high-quality images based on textual prompts.
+Image Analysis: Detect objects, scenes, and key elements within an image.
+Contextual Replies: Provide meaningful responses based on an image's context.
+Commenting System: Offer AI-driven comments and insights on images.
 
 This tool leverages state-of-the-art AI models to process visual data efficiently and interact seamlessly with users.
 ⚡ Getting Started
