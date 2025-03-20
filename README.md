@@ -1,36 +1,31 @@
-PIC-SEEK-AI
+ PIC-SEEK-AI
 
-PIC-SEEK-AI Preview
+🚀 Live Demo: PIC-SEEK-AI
 
-🚀 Live Demo: https://crack-ai-e14a4.web.app/
+📂 Repositories
+⚡ Client-Side: GitHub Repository
+🛠 Server-Side: GitHub Repository
+📜 Overview
 
-📂 Repositories:
+PIC-SEEK-AI is an advanced AI-powered tool that enables users to generate and analyze images while providing contextual replies and AI-driven comments based on specific image content. It leverages cutting-edge AI models to efficiently process visual data and interact seamlessly with users.
+🚀 Features
 
-    Client-Side: https://github.com/mehediNabil24/pic-seek-image-generator
-    Server-Side: https://github.com/mehediNabil24/pic-seek-server
+🔹 Image Generation – Create high-quality images from text prompts
+🔹 Image Analysis – Detect objects, scenes, and key elements in images
+🔹 Contextual Replies – AI-generated responses based on an image's content
+🔹 Commenting System – AI-driven comments and insights for better engagement
+🛠 Installation
 
-🔍 About PIC-SEEK-AI
-
-Pick-Seek is an advanced AI-powered tool that can generate images, analyze images, and provide contextual replies and comments based on specific image content. It leverages cutting-edge AI models to process visual data efficiently and interact seamlessly with users.
-
-
-✨ Features
-
-✅ Image Generation – Create high-quality images from text prompts
-✅ Image Analysis – Detect objects, scenes, and essential image elements
-✅ Contextual Replies – Get AI-generated responses based on an image's context
-✅ Commenting System – AI-powered insights and discussions on images
-⚡ Getting Started
-1️⃣ Clone the Project
+📥 Clone the Repository
 
 git clone https://github.com/mehediNabil24/pic-seek-image-generator.git
 cd pic-seek-image-generator
 
-2️⃣ Install Dependencies
+📂 Install Dependencies
 
 npm install
 
-3️⃣ Setup Firebase
+🔑 Setup Firebase
 
     Go to Firebase Console
     Create a new Firebase project
@@ -38,9 +33,7 @@ npm install
     Enable Google Authentication
     Copy your Firebase Configuration Credentials
 
-4️⃣ Create a .env File & Add Firebase Credentials
-
-Create a .env file in the root directory and add:
+📝 Create a .env File & Add Firebase Credentials
 
 VITE_apiKey=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 VITE_authDomain=xxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -48,6 +41,10 @@ VITE_projectId=xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 VITE_storageBucket=xxxxxxxxxxxxxxxxxxxxxxxx
 VITE_messagingSenderId=xxxxxxxxxxxxxxxxxxxx
 VITE_appId=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+🚀 Run the Application
+
+npm start
 
 🤝 Let's Collaborate!
 
