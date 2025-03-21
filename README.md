@@ -1,5 +1,5 @@
 # 🎨 **PIC-SEEK-AI** 
-![https://imgur.com/rybQre0]
+![alt text](https://i.postimg.cc/pXYrVNsy/profile-3.png)
 
 🚀 **Live Demo:** [PIC-SEEK-AI](https://crack-ai-e14a4.web.app/)  
 
