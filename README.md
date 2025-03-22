@@ -60,5 +60,5 @@ npm start
 ---
 
 ## 🤝 **Let's Collaborate!**  
-If you have any ideas or improvements, feel free to contribute! 😎🚀
+If you have any ideas or improvements, feel free to contribute! 😎🚀 and enhance it
 
